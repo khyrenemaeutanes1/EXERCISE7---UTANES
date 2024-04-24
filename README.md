@@ -1,3 +1,6 @@
+hello sir, dili ma add ang .env.local nako na file pero basically mao to sya ang mga firabase info nako para mag work ang config.js nako which is naa sa src/app/firebase/config.js mao ra sir hehhehehe
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
